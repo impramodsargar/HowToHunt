@@ -37,7 +37,13 @@ Than this is an old session does not expire bug
       4.Instead logged in with your old password and change your email to other
       5.Now use that password link sents to old email and check if you are able to change your password if yes than there is the title bug.
  ```    
-      
+ ### Backslash login vulnerability 
+ * steps:
+ ````
+      1.Create an account 
+      2.first log in
+      3.Now Log out 
+      4.Now just go to previous page if you are able log in then it's Backslash login vulnerability 
   Happy Hacking:)
   
   Resources:Google,Youtube.
